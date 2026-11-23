@@ -4,8 +4,7 @@
   "description": "Cordova plugin to save base64 data as a png/jpg image into the device and applying compression if needed",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint www/saveImageGallery.js",
-    "preinstall": "node preinstall.js"
+    "lint": "eslint www/saveImageGallery.js"
   },
   "repository": {
     "type": "git",
